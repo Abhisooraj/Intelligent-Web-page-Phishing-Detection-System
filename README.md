@@ -7,4 +7,4 @@ Implemented methods in this work:-
 4. Lasso Feature selection. 
 5. Variance reduction feature selection.
 6. Univariate feature selection.
-7.Select from model feature selection
+7. Select from model feature selection
