@@ -1,4 +1,4 @@
-# -Intelligent-web-page-phishing-detection-system
+# Intelligent-web-page-phishing-detection-system
 This system can identify legitimate and phishing web pages. Using Python programming language, Machine Learning’s seven feature selection techniques.
 Implemented methods in this work:-
 1. Information Gain feature selection.
