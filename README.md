@@ -1,11 +1,10 @@
-# Intelligent Web-page Phishing Detection System🦹‍:
+# Intelligent Web-page Phishing Detection System🦹‍🦸:
 <h3> What is Phishing? </h3>
 Phishing is a fraudulent technique using over the Internet to deceive users with the goal of extracting their personal information such as username, passwords, credit card, and bank account information. The key to phishing is deception. Phishing uses email spoofing as its initial medium for deceptive communication followed by spoofed websites to obtain the needed information from the victims. 
 <br/>Phishing is a new word produced from 'fishing', it refers to the act that the attacker allure users to visit a faked Web site by sending them faked e-mails (or instant messages), and stealthily get victim's personal information such as user name, password, and national security ID, etc. This information used for future target advertisements or even identity theft attacks (e.g., transfer money from victims' bank account). 
 <br/>Within one to two years, the number of phishing attacks increased dramatically. In June 2018, the Anti-Phishing Working Group (APWG) reported as many as 51,401 unique phishing websites. Another report by RSA estimated that global organizations suffered losses amounting to $9 billion due to phishing incidents in 2016. These statistics have proven that the existing anti-phishing solutions and efforts are not truly effective since a new website can be launch within few seconds. Therefore, most of these techniques are not able to make an accurate decision dynamically on whether the new website is phishing or not. Hence, many new phishing websites may be classify as legitimate websites
 <br/>
-<br/>
-## Objective ⛳:
+<h2>Objective:</h2>
 The main objective of <b>Intelligent Phishing Detection System </b> is to manage the Phishing website detection techniques effectively and overcome all the limitations of the existing system. The Intelligent Phishing websites detection system can easily detect and predict the legitimate and spam websites. Legitimate webpages and websites can easily access and trust by any user around the world. Factors behind the motivation of this system are:
 <br/>
 <li>	Not all user can check the phishing web pages.</li>
