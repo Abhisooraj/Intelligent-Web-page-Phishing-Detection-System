@@ -22,4 +22,5 @@ The main objective of <b>Intelligent Phishing Detection System </b> is to manage
 Architecture of intelligent phishing Detection system
 <h3> Block-Diagram of Classification based Phishing detection System </h4>
 
+
 ![architecture_image](https://github.com/Abhisooraj/Intelligent-web-page-phishing-detection-system/blob/master/images/blockdia.png)
